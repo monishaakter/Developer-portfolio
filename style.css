@@ -67,3 +67,15 @@ h2 {
     box-shadow: 10px 10px 40px gray;
 
 }
+
+#full-stack {
+    border-left: 7px solid tomato;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
